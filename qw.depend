@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656395456 source:c:\users\mirkhan\desktop\qw\main.cpp
+	<iostream>
+	<string.h>
+
